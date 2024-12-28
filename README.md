@@ -6,7 +6,7 @@ I am Matúš [[ˈmatuːʃ]](https://ipa-reader.com/?text=%CB%88matu%CB%90%CA%83&
 NNNWWWWWWWWMMWMMWMMWWWWWWWWWWW    lordmathis@github
 NNNWWWWWWWOo:,;:;:d0WWWWWWWWWW    -----------
 NNNWWWWNx,'.',:::lol'c0WWWWWWW    OS: Arch Linux, Ubuntu, Debian
-NNNWWWO.,dkxOKXXXXKK0d,dWWWWWW    Host: namesny.com
+NNNWWWO.,dkxOKXXXXKK0d,dWWWWWW    Host: https://namesny.com
 NNNNWK';dxOOOKXXXXKKKKk,xWWWWW    Shell: Zsh
 NNNNNd.cxdxkkOKXXKKKKK0:;0WNNN    DE: VS Code, Neovim
 NNNNNO'coddo:ckKxodkOOOl;XNNNN    
