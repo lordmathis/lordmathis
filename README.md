@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello there 
 
-<!--
-**lordmathis/lordmathis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Matúš [ˈmatuːʃ]. I am a Machine Learning Engineer based in Germany.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```txt
+NNNWWWWWWWWMMWMMWMMWWWWWWWWWWW    lordmathis@github
+NNNWWWWWWWOo:,;:;:d0WWWWWWWWWW    -----------
+NNNWWWWNx,'.',:::lol'c0WWWWWWW    OS: Arch Linux, Ubuntu, Debian
+NNNWWWO.,dkxOKXXXXKK0d,dWWWWWW    Host: namesny.com
+NNNNWK';dxOOOKXXXXKKKKk,xWWWWW    Shell: Zsh
+NNNNNd.cxdxkkOKXXKKKKK0:;0WNNN    DE: VS Code, Neovim
+NNNNNO'coddo:ckKxodkOOOl;XNNNN    
+XNNNNl;loloxkclxokdldxccoKNNNN    Projects:
+XXXXNl'dxkkOxdOKO0KK0OkkOKNNNN    - lemma: Note taking app
+XXXXXk;ldxkOl:okd00000kO0NNNNN    - CUDANet: CNN inference library
+XXXXXXXxcdkOkxdOKK0OOkkKNNNNNN    - Nightfall: Theme for Hugo static site generator
+KKKKKKXOclddclododdkkxKNNNNNNN    
+0000KKKXxcoxolldxOkxx0NNNNNNNX    CPU: Coffee powered
+OOO000KOx:;:loddxoldkOKNNNNNXX    RAM: Hundreds of open tabs
+kkOOOd..;:;,''',:ok0Oc.,OXNNXX    VRAM: CUDA out of memory error
+kxo:'..'lcol:coxkO00Ok'.',cdOK    
+,''''...':lxxdxkkOOdc...,,,,,,    Languages: Python, Go, C++, JavaScript
+''''''.....':ccc:,.....,,;,,,,    Libraries: Pytorch, HuggingFace, FastAPI, CUDA 
+```
